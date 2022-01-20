@@ -22,24 +22,44 @@ public class Client {
         this.sex = sex;
     }
 
-    public String getName() { return name; }
+    public String getName() {
+        return name;
+    }
 
-    public void setName() { this.name = name; }
+    public void setName() {
+        this.name = name;
+    }
 
-    public String getEmail() { return email; }
+    public String getEmail() {
+        return email;
+    }
 
-    public void setEmail() { this.email = email; }
+    public void setEmail() {
+        this.email = email;
+    }
 
-    public String getPhone() { return phone; }
+    public String getPhone() {
+        return phone;
+    }
 
-    public void setPhone() { this.phone = phone; }
+    public void setPhone() {
+        this.phone = phone;
+    }
 
-    public int getAge() { return age; }
+    public int getAge() {
+        return age;
+    }
 
-    public void setAge() { this.age = age; }
+    public void setAge() {
+        this.age = age;
+    }
 
-    public boolean getSex() { return sex; }
+    public boolean getSex() {
+        return sex;
+    }
 
-    public void setSex() { this.sex = sex; }
+    public void setSex() {
+        this.sex = sex;
+    }
 
 }
